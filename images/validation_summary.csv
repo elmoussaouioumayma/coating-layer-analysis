@@ -1,0 +1,6 @@
+,value
+images,100.0
+layer count correct (%),95.0
+"boundary error, median (µm)",0.66
+"boundary error, 90th percentile (µm)",1.31
+"substrate error, median (µm)",0.42
